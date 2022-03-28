@@ -1,6 +1,7 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Sungyeon</h1>
+![header](https://capsule-render.vercel.app/api?text=Hi%20👋,%20%20I'm%20Sungyeon&fontColor=ffffff?&type=cylinder)
+
 <h3 align="center">I am studying with a dream of becoming an iOS developer</h3>
+
 
 
 
